@@ -1,2 +1,5 @@
-# CSE-237C-Validation-and-Testing-of-Embedded-Systems
-Repository for the course CSE 237C at University of California San Diego, which mainly consists of making hardware accelerated code and running it on an FPGA. For more information about the course, see course [webpage](https://kastner.ucsd.edu/ryan/cse237c/).
+# CSE-224-Graduate-Networked-Systems
+Repository for the course CSE 224 at University of California San Diego. 
+
+From [UCSD website](https://catalog.ucsd.edu/courses/CSE.html#cse224):
+> This course will provide a broad understanding of network design and implementation. Topics include techniques for building distributed applications, sockets programming, remote procedure calls (RPC), scale-out distributed directories, distributed consensus and state management, fault tolerance, networked storage, indirection, overlay networks, load balancing, and datacenter design.
